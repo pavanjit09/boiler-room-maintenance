@@ -4,8 +4,6 @@ dataset : [dataset](https://www.kaggle.com/datasets/pavanjitsubash/power-plant-d
 # Boiler Room Maintenance Analytics :factory: 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boiler-room-maintenance.streamlit.app/)  
-![GitHub](https://img.shields.io/badge/license-MIT-blue) 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 
 An AI-powered web application for **real-time anomaly detection and predictive maintenance** in industrial boiler systems. Designed to enhance operational safety, efficiency, and proactive fault prevention.
 
