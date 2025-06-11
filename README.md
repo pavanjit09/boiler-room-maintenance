@@ -1,7 +1,6 @@
 # boiler-room-maintenance
 Dataset Used : [Kaggle](https://www.kaggle.com/datasets/pavanjitsubash/power-plant-data-steam-turbine-and-boiler-metrics)
 
-# Boiler Room Maintenance Analytics
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boiler-room-maintenance.streamlit.app/)  
 
