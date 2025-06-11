@@ -1,7 +1,7 @@
 # boiler-room-maintenance
-dataset : [dataset](https://www.kaggle.com/datasets/pavanjitsubash/power-plant-data-steam-turbine-and-boiler-metrics)
+Dataset Used : [Kaggle](https://www.kaggle.com/datasets/pavanjitsubash/power-plant-data-steam-turbine-and-boiler-metrics)
 
-# Boiler Room Maintenance Analytics :factory: 
+# Boiler Room Maintenance Analytics
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://boiler-room-maintenance.streamlit.app/)  
 
@@ -9,7 +9,7 @@ An AI-powered web application for **real-time anomaly detection and predictive m
 
 ---
 
-## :mag_right: Key Features
+## Key Features
 
 ### **1. Anomaly Detection**  
 - Identifies deviations in historical sensor data using a **deep learning model** (LSTM Autoencoder).  
